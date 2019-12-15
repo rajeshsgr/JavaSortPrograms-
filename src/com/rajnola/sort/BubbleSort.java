@@ -11,8 +11,6 @@ public class BubbleSort {
 
 		System.out.println("Before Bubble Sort :- "+Arrays.toString(dataArray));
 		
-       // int temp = 0;  
-
 
 		for (int i = 0; i < dataArray.length; i++) {
 
